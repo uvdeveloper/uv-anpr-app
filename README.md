@@ -1,6 +1,8 @@
 # UV-ANPR APP
 This application can be used to read license plates by simply taking a picture from the app or by uploading an image from the gallery.
 
+![Output Values on terminal after running the script](https://github.com/uvdeveloper/uv-atcs-app/blob/master/result_command_line.png "")
+
 ## Using the app
 There are two modes for using the app.
 
