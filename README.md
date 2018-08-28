@@ -1,7 +1,7 @@
 # UV-ANPR APP
 MoveHack UV-ANPR Demo application can be used to read license plates by simply taking a picture from the app or by uploading an image from the gallery.
 
-![UV-ANPR Demo App for Just code It](https://drive.google.com/open?id=1p_kePmC-RfnDVUy2z5PgbSNtwvL-DhNO "")
+![UV-ANPR Demo App for Just code It](https://github.com/uvdeveloper/uv-anpr-app/raw/master/JustCodeIt_UV_ANPR_Demo_App/App_Usage.jpg "")
 
 ## Using the app
 There are two modes for using the app.
